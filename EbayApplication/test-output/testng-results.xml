@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102036" started-at="2020-05-13T05:51:00Z" finished-at="2020-05-13T05:52:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="102036" started-at="2020-05-13T05:51:00Z" finished-at="2020-05-13T05:52:42Z">
+      <class name="BuyProduct.Buy65inchTV">
+        <test-method status="PASS" signature="testEbay()[pri:0, instance:BuyProduct.Buy65inchTV@7113b13f]" name="testEbay" is-config="true" duration-ms="19652" started-at="2020-05-13T05:51:00Z" finished-at="2020-05-13T05:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEbay -->
+        <test-method status="PASS" signature="login()[pri:0, instance:BuyProduct.Buy65inchTV@7113b13f]" name="login" duration-ms="21170" started-at="2020-05-13T05:51:19Z" finished-at="2020-05-13T05:51:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="searchTV()[pri:0, instance:BuyProduct.Buy65inchTV@7113b13f]" name="searchTV" duration-ms="22154" started-at="2020-05-13T05:51:41Z" depends-on-methods="BuyProduct.Buy65inchTV.login" finished-at="2020-05-13T05:52:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTV -->
+        <test-method status="PASS" signature="addToCart()[pri:0, instance:BuyProduct.Buy65inchTV@7113b13f]" name="addToCart" duration-ms="16003" started-at="2020-05-13T05:52:03Z" depends-on-methods="BuyProduct.Buy65inchTV.login, BuyProduct.Buy65inchTV.searchTV" finished-at="2020-05-13T05:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="checkout()[pri:0, instance:BuyProduct.Buy65inchTV@7113b13f]" name="checkout" duration-ms="21449" started-at="2020-05-13T05:52:19Z" depends-on-methods="BuyProduct.Buy65inchTV.addToCart, BuyProduct.Buy65inchTV.login, BuyProduct.Buy65inchTV.searchTV" finished-at="2020-05-13T05:52:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method status="PASS" signature="quitapp()[pri:0, instance:BuyProduct.Buy65inchTV@7113b13f]" name="quitapp" is-config="true" duration-ms="1544" started-at="2020-05-13T05:52:40Z" finished-at="2020-05-13T05:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitapp -->
+      </class> <!-- BuyProduct.Buy65inchTV -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

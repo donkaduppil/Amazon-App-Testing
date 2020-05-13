@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Desktop/Appium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Desktop/Appium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Desktop/Appium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Desktop/Appium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Desktop/Appium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Desktop/Appium/client-combined-3.141.59.jar" sourcepath="C:/Users/Don/Desktop/Appium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Desktop/Appium/gson-2.3.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/jxl-2.6.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/apache-commons.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Desktop/Appium/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Desktop/Appium/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/selenium-html-runner-3.13.0 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/sikulix.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/slf4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/Software/poi-4.0.1/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/Software/poi-4.0.1/poi-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/Software/poi-4.0.1/poi-excelant-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/Software/poi-4.0.1/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/Software/poi-4.0.1/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/Software/poi-4.0.1/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/Software/client-combined-3.141.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/Software/client-combined-3.141.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/Software/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/Software/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/Software/selenium-java.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/Software/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Downloads/Software/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Don/Desktop/Appium/java-client-7.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
